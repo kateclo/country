@@ -29,6 +29,7 @@ restfulcountries.api.auth.token=<TO_SUPPLY>
   * To use, set ```api.country.source=RESTFUL_COUNTRIES```
   * This source is faser. It needs <i>authorization token</i>. It can be created here : https://restfulcountries.com/request-access-token
   * Email address is enough to request a token.
+  * Please supply token value in ```restfulcountries.api.auth.token=<TO_SUPPLY>```
 - default service port : 8080
 
 
